@@ -92,7 +92,7 @@ nav ul li a {
 
 /* WORK CSS CODE */
 
-#work .full-width{
+#work {
     background-color: #F9CEB7;
     text-align: center;
     padding: 115px 0;
@@ -118,7 +118,7 @@ nav ul li a {
 
 /* CONTACT CSS */
 
-#contact .full-width{
+#contact {
     background-color: #ebebeb;
     padding: 110px 0;
 
